@@ -98,3 +98,7 @@ Values
 Hadoop Writables
 Special Types
 ```
+
+#### 学习建议
+
+![mark](http://cdn.wangxc.club/blog/20190709/kW6eUgepjfm2.png?imageslim)
