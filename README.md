@@ -102,3 +102,6 @@ Special Types
 #### 学习建议
 
 ![mark](http://cdn.wangxc.club/blog/20190709/kW6eUgepjfm2.png?imageslim)
+
+#### 分布式缓存
+Flink提供了一个分布式缓存，类似于Apache Hadoop，可以在本地访问用户函数的并行实例。此功能可用于共享包含静态外部数据的文件，如词典或机器学习回归模型。
