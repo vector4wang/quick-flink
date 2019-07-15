@@ -25,6 +25,8 @@ public class WindowWordCount {
 
         dataStream.print();
         System.out.println("=========================");
+
+
         env.execute("Window WordCount");
     }
 
